@@ -3,11 +3,9 @@
 
 
 ## Live Link
-Visit the [live demo](https://exploding-kittens.netlify.app/) to experience the game (Note: Backend is currently down).
+Visit the [live demo](https://exploding-kittens.netlify.app/) to experience the game
 
-Certainly! Here's the updated section with instructions for cloning from GitHub:
 
-```markdown
 ## Instructions for Running the Game Locally
 
 1. **Clone the Repository**
@@ -64,10 +62,6 @@ Certainly! Here's the updated section with instructions for cloning from GitHub:
 4. **Access the Game**
    - Open your web browser and go to [http://localhost:(PORT)](http://localhost:(PORT)) to access the game.
 
-These instructions provide steps for cloning the repository directly from GitHub, ensuring you have the latest version of the codebase.
-```
-
-Replace `https://github.com/your-username/exploding-kittens.git` with the actual GitHub repository URL. This modification allows users to clone the repository, providing them with an up-to-date version of the game.
 
 ## Game Instructions
 
